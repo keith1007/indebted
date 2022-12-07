@@ -1,2 +1,9 @@
 # indebted_takehome
-my output for the DA takehome exam
+This directy contains my **"EDA.ipynb"** where I did an Exploratory Data Analysis before heading over to Tableau and creating a dashboard containing my findings. 
+
+# New .csv
+To supplement the existing dataset **communications.csv**, I saved **"communications_unique_ids.csv"**. The new csv file is the same as the original except it only contains one row per unique customer and has columns containing the total number of messages sent to them as well as the total number of days from the first message until they replied (or where the dataset cut off).
+
+# Tableau Public Dashboard
+[Here is the link](https://public.tableau.com/app/profile/keith.santos/viz/slimmed_indebted/FinalInDebtedDashboard-Santos?publish=yes) to the dashboard I made! 
+
