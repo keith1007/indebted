@@ -7,4 +7,4 @@ To supplement the existing dataset **communications.csv**, I saved **"communicat
 # Tableau Public Dashboard
 [Here is the link](https://public.tableau.com/app/profile/keith.santos/viz/slimmed_indebted/FinalInDebtedDashboard-Santos?publish=yes) to the dashboard I made! Although, it seems that publishing my dashboard to Tableau Public had shrunk my text and title sizes by a lot. 
 
-![Screenshot of my Dashboard on Local](https://drive.google.com/file/d/1suojPXtzZb8zH0p8JiG0H08f9ThSlO8C/view?usp=sharing) Here is a picture of what it looks like locally.
+![Screenshot of my Dashboard on Local](localdashboard.png) Here is a picture of what it looks like locally.
