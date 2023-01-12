@@ -1,4 +1,4 @@
-# indebted_takehome
+# indebted
 This directy contains my **"EDA.ipynb"** where I did an Exploratory Data Analysis before heading over to Tableau and creating a dashboard containing my findings. 
 
 # New .csv
